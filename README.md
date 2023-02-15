@@ -10,7 +10,7 @@ In this study, an analysis was performed on Amazon reviews written by members of
 
 ## **Resources**
 - Dataset: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Apparel_v1_00.tsv.gz
-- Software: pgAdmin4, PySpark, Pandas, SGL, AWS RDS
+- Software: pgAdmin4, PySpark, Pandas, SQL, AWS RDS
 
 # **Results**
 An AWS RDS database was created with tables in pgAdmin. Then the Extract, Transform, and Load (ETL) process was performed  on Amazon product reviews for apparel. The dataset was loaded into Google Colab with PySpark in the form of a dataframe. The original dataframe was transformed into four separate DataFrames that match the table schema in pgAdmin. The transformed dataframes were uploaded into their corresponding tables. See below for a sample of the four tables in the database:
