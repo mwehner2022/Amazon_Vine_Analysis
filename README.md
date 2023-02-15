@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 
 # **Purpose**
-In this study, an analysis was performed on Amazon reviews written by members of the paid Amazon Vine program, specifically apparel reviews. The Vine program is a paid service by companies who wish to have their products reviewed by vetted and trusted amazon customers. These customers receive the products free of charge but are required to write a review. The goal was to determine if there is any bias towards favorable reviews from the Vine apparel dataset
+In this study, an analysis was performed on Amazon reviews written by members of the paid Amazon Vine program, specifically apparel reviews. The Vine program is a paid service by companies who wish to have their products reviewed by vetted and trusted amazon customers. These customers receive the products free of charge but are required to write a review. The goal was to determine if there is any bias towards favorable reviews from the Vine apparel dataset.
 
 ## **Goal**
 - Perform ETL on Amazon Product Reviews
